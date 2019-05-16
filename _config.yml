@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: TLS Institute Summer Hackathon
+github:
+  is_project_page: true
