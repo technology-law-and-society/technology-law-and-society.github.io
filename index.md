@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+New technologies stand poised to effect a paradigm shift for society—and for sociolegal institutions specifically—by offering new means of interacting with established social institutions, new tools for regulatory governance and law enforcement, by generating new forms of predictive and algorithmic knowledge that confront law’s traditional notions of due process, and by reshaping social norms around discretion, risk, and accountability.
 
-You can use the [editor on GitHub](https://github.com/technology-law-and-society/technology-law-and-society.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The CRN focuses on technology, in the current day and in a speculative future, as both the subject and object of social life. In the former instance, we explore and comment on, inter alia, the use of technologies that surveil and control social actors; that provide or prohibit access to legal institutions and the polity more broadly; that are used by legal actors in a variety of practice settings; and that change societal understandings and expectations of what law is and how it is experienced. In the latter instance, we examine, inter alia, how regulators, legislators, and the judiciary respond to shifts in the technological landscape, both historic and contemporary; how organizations operating at the cutting edge of technological innovation comply with or contest regulation; the role of the legal profession in defining what is and is not regulable via technology; and the way social, political, legal, and market forces promote or dissuade adoption of different types of technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/technology-law-and-society/technology-law-and-society.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The CRN invites participation from across the disciplinary and interdisciplinary spectrum, from legal theorists and sociologists to political scientists and economists; from sociolegal scholars to technologists, information studies scholars, and systems designers. Additionally, we welcome all methods and methodologists, including quantitative (e.g., experimental, econometric), qualitative (e.g., ethnographic, interview), historical, narrative, legal/doctrinal, and mixed methodologies. New technologies present novel ethical and normative questions around privacy, ownership, access, and compliance; we welcome critical engagement on this front as well. With technological change come consequences, both anticipated and unanticipated. This CRN attempts to make the study of these consequences—and their origins—a pertinent and pressing part of the conversation in the next generation of sociolegal scholarship.
