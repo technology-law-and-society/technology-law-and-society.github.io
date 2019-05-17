@@ -1,8 +1,8 @@
-#Sunday, May 2
+# Sunday, May 2
 
-##Technology and Legal Problems
+## Technology and Legal Problems
 
-###Sun, 6/2: 8:00 AM  - 9:45 AM, Hyatt  Capitol B 
+### Sun, 6/2: 8:00 AM  - 9:45 AM, Hyatt  Capitol B 
 
 Chair/Discussant: *Hannah Bloch-Wehba*, Drexel University Kline School of Law  
 

@@ -1,8 +1,8 @@
-#Friday, May 31
+# Friday, May 31
 
-##Technology and Changes to Legal Practice
+## Technology and Changes to Legal Practice
 
-###Fri, 5/31: 10:00 AM  - 11:45 AM, Hyatt Congressional C 
+### Fri, 5/31: 10:00 AM  - 11:45 AM, Hyatt Congressional C 
 
 Chair/Discussant: *Mohd Hwaidi*, Nottingham Trent University  
 
@@ -32,9 +32,9 @@ The research has achieved insightful information about the disruption in the Bra
 >Nowadays, information about prosecutions and convictions is becoming more accessible and new "criminal records" are documented forever on the pages of the internet. My research explores whether technology makes expungement a practical impossibility, and what effect it has on people's willingness and desire to see offenders punished. My work raises important questions about rehabilitation approaches and their utility in the future. Through an online survey conducted in Israel, respondents followed scenarios that illustrate criminal cases and determined whether to support prosecution, including in cases when information will be documented forever. The assumption is that in cases of minor crimes, eternally documented stigma will be too harsh, and people will not want to convict or prosecute at all. My paper rests on a theoretical background rooted in technological determinism scholarship that links technology development to social changes. The latent dimension of public morality that the research is trying to uncover is impacted by the fact that expungement becomes practically limited due to technological changes. Therefore, one cannot avoid wondering whether the digital age foreshadows the death of rehabilitation.
 
 
-##State Use of Technology
+## State Use of Technology
 
-###Fri, 5/31: 12:45 PM  - 2:30 PM, Hyatt Capitol B 
+### Fri, 5/31: 12:45 PM  - 2:30 PM, Hyatt Capitol B 
 
 Chair/Discussant: *Renee Shelby*, Georgia Institute of Technology
 
@@ -62,9 +62,9 @@ Chair/Discussant: *Renee Shelby*, Georgia Institute of Technology
 
 >As technology develops, new tools are continually being introduced that alter the nature and availability of courtroom evidence. Considering the especially beneficial nature of the open-source evidence, the so-called open-source investigations are becoming more and more popular in the ICC. Open-source evidence, which may come in the form of photographs, video and audio recordings, emails, blogs, and social media (e.g. Facebook, Twitter) poses challenges to the ICC's standard of proof, which varies depending on the stages of an investigation or a proceeding. The right to a full equality to a fair and public hearing by an independent and impartial tribunal is intertwined with human dignity and is fundamental to the operation of the rule of law. It is also necessary to evaluate the probative value of the evidence and weigh it against the prejudicial effect that the evidence might cause. Respecting the dignity of the victims, defendants and the witnesses has been confirmed in the Rome Statute of ICC, Article 69 (4&7), but the open-source evidence confronts in several ways the protected right to fair trial that goes to the heart of human dignity and the nature of reliability, authenticity, credibility, and impartiality standards. Many scholars, including Alex Whiting, Emma Irving, Keith Hiatt, and others have weighed in on analyzing the issue of what the ICC actually does to accomplish its goals of deterrence and punishment and preserving the parties' right to fair trial and personal dignity, while confronting technology, like the internet, that has the capacity to challenge the ICC's authority. To ensure the personal dignity of the parties in ICC's criminal investigation and proceeding, should it be the case that the higher the burden, the less weight is given to open-source evidence? This paper tries to address the posed question under the notions of the right to fair trial and personal dignity to explore whether the approach to open-source evidence should change.
 
-##Online Speech Regulation
+## Online Speech Regulation
 
-###Fri, 5/31: 2:45 PM  - 4:30 PM, Hyatt Congressional A 
+### Fri, 5/31: 2:45 PM  - 4:30 PM, Hyatt Congressional A 
 
 Chair/Discussant: *Jacquelyn Burkell*, University of Western Ontario
 

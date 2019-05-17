@@ -1,8 +1,8 @@
-#Thursday, May 30
+# Thursday, May 30
 
-##Technoscientific Legalities
+## Technoscientific Legalities
 
-###Thu, 5/30: 8:00 AM  - 9:45 AM, Hyatt Capitol B 
+### Thu, 5/30: 8:00 AM  - 9:45 AM, Hyatt Capitol B 
 
 This panel takes up the relationship between science, technology, and law. It sees the three terms as fundamentally yet unstably connected. Papers take up questions such as: How is law being mobilized to advance or curtail developments in science and technology? How do technological developments take on lawlike qualities, even functioning as a law unto themselves, or as alternative forums for doing the work usually ascribed to law (resource distribution, order production, conflict resolution, etc)? How do commercial interests shape the relationship between, law, technology, and science? And, how are science and technology being used (or resisted) in the production, interpretation, and enforcement of law? Papers take up these questions while also considering the points of overlap and divergence between sociolegal studies and STS.
 
@@ -44,9 +44,9 @@ Chair/Discussant: *Sally Engle Merry*, New York University
 
 >The occularcentrism of the courtroom is changing the ways in which justice is seen to be done. Images are especially important to the implementation of the 'victimless prosecution' of domestic violence. Presented as a benevolent intervention protecting victims from the assumed trauma of a criminal trial, the various iterations of this form of evidence collection rely heavily on image capture – particularly of the victim and especially of her injuries. Images of injuries create a 'data double' of the victim, a virtual proxy who is not always as protective of her originator as prevailing logics suggest. The data double plays the role of docile, curated victim, rife with vulnerability and an uncanny ability to embody the fragility of victimhood written into scripts of domestic violence. The data double embodies the perfect victim in the sense that she is always and forever in temporal proximity to the assault. Her bruises do not heal, she cannot access time nor reflection and most importantly, because she has no future self, she can never change her story. Fixed in image, she is a battered woman in perpetuity. The flesh and blood victim, in contrast, can and does move on, she heals, she changes and in so doing, she threatens the very processes meant to 'protect' her, hence the need to quiet the flesh in order that the virtual might speak instead. I interrogate the relationship between these two characters, theorizing that the images turned victim do violence to the flesh and blood victim by condemning her will (Ahmed, 2001), emotions (Walklate, 2014), and animation. I argue the victim made of pure virtuality is simultaneously tamed in the court while weaponized against her originator. Drawing on an in-depth case study of State of West Virginia v. Peter Lizon, I show how the data double is made to accuse her originator of egregious digressions from the script of assault. It is the flesh victim who ultimately stands accused of betraying and victimizing herself.>
 
-##Data, Human Dignity, Surveillance and Social Control in the Algorithmic Society: Law, Technology, Rights and Market**
+## Data, Human Dignity, Surveillance and Social Control in the Algorithmic Society: Law, Technology, Rights and Market**
 
-##Thu, 5/30: 12:45 PM  - 2:30 PM,  Hyatt Capitol B 
+### Thu, 5/30: 12:45 PM  - 2:30 PM,  Hyatt Capitol B 
 
 Chair**:** *Amnon Reichman*, Faculty of Law, University of Haifa
 

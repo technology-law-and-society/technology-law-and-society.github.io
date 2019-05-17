@@ -1,8 +1,8 @@
-#Saturday, June 1
+# Saturday, June 1
 
-##Challenges to Law & Regulation with New Technology**
+## Challenges to Law & Regulation with New Technology**
 
-###Sat, 6/1: 10:00 AM  - 11:45 AM, Hyatt Congressional A 
+### Sat, 6/1: 10:00 AM  - 11:45 AM, Hyatt Congressional A 
 
 Chair/Discussant: *Slobodan Tomic*, University College Dublin (UCD)  
 
@@ -42,9 +42,9 @@ The second part of the article will offer suggestions for further policies and r
 
 >WIP: Once a closely-guarded form of state intelligence, high-resolution satellite imagery is becoming increasingly available through a decades-long process of deregulation by the US government. This form of remote sensing, combined with machine learning applications, is regarded as a less costly yet effective way to monitor assets, coordinate aid in disasters, and more. In her foundational text, Cultures in Orbit, communications scholar Lisa Parks reveals the connection between state production and interpretation of satellite imagery; more recently, STS scholars Nina Witjes and Philipp Olbrich highlight the enduring connection between private satellite imagery companies and state actors, and question the form of transparency providers are advertising, as these companies remain tied to national security and geopolitical interests. However, as greater control of imagery continues to shift from the public to private sector, I argue that the ethical frameworks and policies developed by private companies in this space are becoming more salient to the notion of privacy, rather than national security. In this paper, I examine how ethical and privacy concerns are conceptually framed and technically instantiated by satellite imagery and analysis firms. I do so by collecting and analyzing primary source documents from leading satellite imagery and analytics companies. My initial findings show demonstrated values in conceptual frameworks of omniscience and transparency and manifest through an unremitting pursuit of information and sharing said information with the global community.
 
-##Law, Technology, and Social Media**
+## Law, Technology, and Social Media**
 
-Sat, 6/1: 2:45 PM  - 4:30 PM, Hyatt Capitol B 
+### Sat, 6/1: 2:45 PM  - 4:30 PM, Hyatt Capitol B 
 
 Chair/Discussant: *Akshaya Kamalnath*, Deakin Law School  
 
@@ -83,9 +83,9 @@ This research aims to understand how this digital public sphere has altered the 
 >India recently mandated that large corporations have to spend a certain percentage of their profits on 'corporate social responsibility activities'. The government's broad rationale for this law is that corporations should also be involved in 'nation building'. This paper looks at smaller enterprises, start-ups and individuals who are voluntarily seeking to invest in projects with social benefits and argues that equity crowdfunding fits within the government's policy to involve private participants in nation-building by facilitating access to finance.
 Crowdfunding or sourcing money from a crowd of ordinary people (i.e. they need not be sophisticated people) for a project is not new to India. This paper assesses the benefits of crowdfunding in India and makes the case for the law to facilitate equity crowdfunding. A key argument in the context of developing countries like India is that crowdfunding can be (and often works as) a vehicle for channelling investment into projects that have a social purpose. By allowing crowdfunding, the government has the opportunity to facilitate funding for social and innovative projects. To support the argument, this paper will draw from (i) a survey of the social benefits of non-equity crowdfunding (i.e. donation and reward crowdfunding) thus far; and (ii) a survey of the social benefits of equity crowdfunding in other developing countries. Finally, the paper will evaluate the policy paper on equity crowdfunding in India, put forth by the market regulator, and recommend a more optimal framework.
 
-##Roundtable: The State of Immigration Surveillance**
+## Roundtable: The State of Immigration Surveillance**
 
-#Sat, 6/1: 2:45 PM  - 4:30 PM, Hyatt Regency A Table 2 
+### Sat, 6/1: 2:45 PM  - 4:30 PM, Hyatt Regency A Table 2 
 
 >New and emerging technologies are transforming how immigration enforcement is carried out and experienced by communities across the United States. This roundtable session, featuring scholars, legal practitioners and human rights advocates, will address the myriad ways in which immigration enforcement has become an information-centered and technology-driven enterprise, operating without geographic bounds to surveil the mobility, speech and conduct of citizens and noncitizens alike. Panelists will address the lack of transparency and oversight, the role of private industry, and discriminatory impacts of the new state of immigration surveillance on communities of color, including Muslim-Americans and Latino/a communities accused of gang involvement, as well as promising avenues for public engagement, redress and reform.
 
