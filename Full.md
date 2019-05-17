@@ -1,11 +1,3 @@
-**CRN 37: technology, law & society panels**
-
-**2019 law & society annual meeting**
-
-**\#lsa2019 \#LSAtechlawsociety **
-
-JOIN US\! https://tinyurl.com/joinCRN37
-
 Thursday, May 30
 
 **Technoscientific Legalities**
