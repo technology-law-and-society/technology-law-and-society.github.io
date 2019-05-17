@@ -38,11 +38,35 @@ Thursday, May 30
 >
 > *Dawn Moore*, Carleton University
 
+**Privacy, Data Protection, Security and Surveillance – Tensions and Issues of Accountability in a Transatlantic Perspective**
+
+> Thu, 5/30: 10:00 AM  - 11:45 AM,  Hyatt Capitol B
+>
+> Chair: *Hartmut Aden*, Berlin School of Economics and Law (FÖPS Berlin)
+>
+> Discussant: *Francesca Bignami*, GWU Law School
+>
+> **Foreigners in U.S. Surveillance Law**
+>
+> *Francesca Bignami*, GWU Law School
+>
+> **Interoperability Between Policing and Migration Databases – Another Step Towards Mass Surveillance?**
+>
+> *Hartmut Aden*, Berlin School of Economics and Law (FÖPS Berlin)
+>
+> *Sentenced to Surveillance*
+>
+> *Kate Weisburd*, GW Law
+>
+> **The Panoptic Administrative State in Europe**
+
+> *Deirdre Curtin*, European University Institute
+
 **Data, Human Dignity, Surveillance and Social Control in the Algorithmic Society: Law, Technology, Rights and Market**
 
 > Thu, 5/30: 12:45 PM  - 2:30 PM,  Hyatt Capitol B 
 >
-> Chair**:** *Amnon Reichman*, Faculty of Law, University of Haifa
+> Chair: *Amnon Reichman*, Faculty of Law, University of Haifa
 >
 > Discussant: *John Morison*, Queen's University Belfast
 >
